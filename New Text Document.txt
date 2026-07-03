@@ -1,0 +1,27 @@
+NIMA-IT-SOLUTIONS/
+│
+├── index.html
+├── about.html
+├── products.html
+├── services.html
+├── repair.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── script.js
+│   ├── particles.js
+│   └── products.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── products/
+│   └── gallery/
+│
+└── assets/
